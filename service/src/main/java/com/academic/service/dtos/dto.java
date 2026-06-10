@@ -1,5 +1,8 @@
 package com.academic.service.dtos;
 
-public class dto {
-    
-}
+/**
+ * Este archivo contiene las clases DTO (Data Transfer Objects).
+ * Las clases públicas han sido movidas a sus propios archivos:
+ * - DivisionDTO.java
+ * - DivisionUpdateDTO.java
+ */
